@@ -166,6 +166,7 @@ factorio-mod-localizer/
 - [异星工厂官网](https://factorio.com/)
 - [异星工厂模组门户](https://mods.factorio.com/)
 - [Python tkinter文档](https://docs.python.org/3/library/tkinter.html)
+- [Python Windows下载](https://www.python.org/downloads/windows/)
 
 ---
 
