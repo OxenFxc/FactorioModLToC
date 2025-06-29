@@ -89,17 +89,9 @@ python factorio_mod_localizer.py
 ```
 factorio-mod-localizer/
 ├── factorio_mod_localizer.py    # 主程序文件
-├── 启动汉化工具.bat             # Windows启动脚本
 ├── requirements.txt             # Python依赖
 ├── README.md                   # 项目说明
 ├── LICENSE                     # MIT许可证
-├── .gitignore                  # Git忽略文件
-└── aai-containers_0.3.1/       # 示例模组（用于测试）
-    ├── info.json
-    ├── locale/
-    │   ├── en/
-    │   └── zh-CN/
-    └── ...
 ```
 
 ## 🔧 配置文件
