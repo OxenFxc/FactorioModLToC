@@ -57,7 +57,6 @@ pip install -r requirements.txt
 python factorio_mod_localizer.py
 ```
 
-或直接双击 `启动汉化工具.bat`（Windows用户）
 
 ### 🎮 使用方法
 
