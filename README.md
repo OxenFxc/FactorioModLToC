@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://www.microsoft.com/windows)
 
-一个专为异星工厂(Factorio)游戏模组设计的强大汉化工具，支持批量处理、AI翻译工作流、实时编辑和备份管理。
+一个专为异星工厂(Factorio)游戏模组设计的强大汉化工具，支持批量处理、AI翻译工作流、实时编辑和备份管理。**专为Windows系统优化**。
 
 ## ✨ 功能特性
 
@@ -35,9 +35,9 @@
 ## 🚀 快速开始
 
 ### 📋 系统要求
+- **Windows 10/11** 操作系统
 - Python 3.8 或更高版本
 - tkinter GUI库（通常随Python安装）
-- Windows/Linux/macOS 操作系统
 
 ### 📦 安装
 
@@ -48,15 +48,16 @@ cd factorio-mod-localizer
 ```
 
 2. **安装依赖**
-```bash
+```
 pip install -r requirements.txt
 ```
 
 3. **运行程序**
-```bash
+```
 python factorio_mod_localizer.py
 ```
 
+或**推荐**直接双击 `启动汉化工具.bat` 启动脚本
 
 ### 🎮 使用方法
 
